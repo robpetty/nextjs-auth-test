@@ -37,6 +37,8 @@ export async function GET(request: NextRequest) {
     });
     if (!error) {
       return NextResponse.redirect(redirectTo);
+    } else {
+      console.error(error);
     }
   }
 
