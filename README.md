@@ -1,3 +1,15 @@
+This is to test:
+<br />
+https://supabase.com/docs/guides/auth/server-side/email-based-auth-with-pkce-flow-for-ssr
+<br />
+`[AuthApiError]: invalid request: both auth code and code verifier should be non-empty`
+<br />
+Having issue with verifyOtp failing in Vercel with:
+<br />
+https://github.com/orgs/supabase/discussions/20922
+<br />
+
+<hr />
 <a href="https://demo-nextjs-with-supabase.vercel.app/">
   <img alt="Next.js and Supabase Starter Kit - the fastest way to build apps with Next.js and Supabase" src="https://demo-nextjs-with-supabase.vercel.app/opengraph-image.png">
   <h1 align="center">Next.js and Supabase Starter Kit</h1>
